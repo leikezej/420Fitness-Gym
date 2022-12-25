@@ -1,0 +1,14 @@
+// 20221225083640
+// https://raw.githubusercontent.com/ed-roh/gym-typescript/master/tsconfig.node.json
+
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "vite.config.ts"
+  ]
+}
